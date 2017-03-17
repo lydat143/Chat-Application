@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerChat", "ServerChat\ServerChat.csproj", "{7C253BD3-1A2D-4CFB-A64A-D2A972E955C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chat", "Chat\Chat.csproj", "{72506232-D246-489B-B60A-DE3C8B33C3C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerLogAndReg", "ServerLogAndReg\ServerLogAndReg.csproj", "{457C9453-FA23-4FCC-8154-073201BE1388}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C253BD3-1A2D-4CFB-A64A-D2A972E955C7}.Debug|x86.ActiveCfg = Debug|x86
+		{7C253BD3-1A2D-4CFB-A64A-D2A972E955C7}.Debug|x86.Build.0 = Debug|x86
+		{7C253BD3-1A2D-4CFB-A64A-D2A972E955C7}.Release|x86.ActiveCfg = Release|x86
+		{7C253BD3-1A2D-4CFB-A64A-D2A972E955C7}.Release|x86.Build.0 = Release|x86
+		{72506232-D246-489B-B60A-DE3C8B33C3C4}.Debug|x86.ActiveCfg = Debug|x86
+		{72506232-D246-489B-B60A-DE3C8B33C3C4}.Debug|x86.Build.0 = Debug|x86
+		{72506232-D246-489B-B60A-DE3C8B33C3C4}.Release|x86.ActiveCfg = Release|x86
+		{72506232-D246-489B-B60A-DE3C8B33C3C4}.Release|x86.Build.0 = Release|x86
+		{457C9453-FA23-4FCC-8154-073201BE1388}.Debug|x86.ActiveCfg = Debug|x86
+		{457C9453-FA23-4FCC-8154-073201BE1388}.Debug|x86.Build.0 = Debug|x86
+		{457C9453-FA23-4FCC-8154-073201BE1388}.Release|x86.ActiveCfg = Release|x86
+		{457C9453-FA23-4FCC-8154-073201BE1388}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

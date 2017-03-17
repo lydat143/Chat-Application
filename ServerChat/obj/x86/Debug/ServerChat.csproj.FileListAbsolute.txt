@@ -1,0 +1,38 @@
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\ServerChat\obj\x86\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\ServerChat\obj\x86\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\ServerChat\bin\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\ServerChat\bin\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\ServerChat\obj\x86\Debug\Server.ServerChat.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\ServerChat\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\ServerChat\obj\x86\Debug\ServerChat.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\ServerChat\obj\x86\Debug\ServerChat.csprojResolveAssemblyReference.cache
+D:\Chat\ServerChat\obj\x86\Debug\Server.exe
+D:\Chat\ServerChat\obj\x86\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\ServerChat\obj\x86\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\ServerChat\obj\x86\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\ServerChat\bin\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\ServerChat\bin\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\ServerChat\obj\x86\Debug\ServerChat.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\ServerChat\obj\x86\Debug\Server.ServerChat.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\ServerChat\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\ServerChat\obj\x86\Debug\ServerChat.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\ServerChat\obj\x86\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\ServerChat\obj\x86\Debug\Server.pdb
+C:\Users\Dat\Desktop\ChatApplication\ServerChat\bin\Debug\Server.exe
+C:\Users\Dat\Desktop\ChatApplication\ServerChat\bin\Debug\Server.pdb
+C:\Users\Dat\Desktop\ChatApplication\ServerChat\obj\x86\Debug\ServerChat.csprojResolveAssemblyReference.cache
+C:\Users\Dat\Desktop\ChatApplication\ServerChat\obj\x86\Debug\Server.ServerChat.resources
+C:\Users\Dat\Desktop\ChatApplication\ServerChat\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Dat\Desktop\ChatApplication\ServerChat\obj\x86\Debug\ServerChat.csproj.GenerateResource.Cache
+C:\Users\Dat\Desktop\ChatApplication\ServerChat\obj\x86\Debug\Server.exe
+C:\Users\Dat\Desktop\ChatApplication\ServerChat\obj\x86\Debug\Server.pdb
+C:\Users\Dat\Desktop\ChatApplication\ServerChat\bin\Debug\Server.exe.config
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerChat\bin\Debug\Server.exe.config
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerChat\bin\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerChat\bin\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerChat\obj\x86\Debug\ServerChat.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerChat\obj\x86\Debug\Server.ServerChat.resources
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerChat\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerChat\obj\x86\Debug\ServerChat.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerChat\obj\x86\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerChat\obj\x86\Debug\Server.pdb

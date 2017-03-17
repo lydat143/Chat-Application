@@ -1,0 +1,66 @@
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\bin\Debug\Chat.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\bin\Debug\Chat.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\obj\x86\Debug\Chat.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\obj\x86\Debug\Chat.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\obj\x86\Debug\Chat.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\bin\Debug\Chat.exe.config
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\obj\x86\Debug\Chat.FormReg.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\obj\x86\Debug\Chat.Client.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\obj\x86\Debug\Chat.FormRoom.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\Chat\Chat\obj\x86\Debug\Chat.FormChat.resources
+D:\Chat\Chat\bin\Debug\Chat.exe.config
+D:\Chat\Chat\obj\x86\Debug\Chat.exe
+D:\Chat\Chat\obj\x86\Debug\Chat.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\bin\Debug\Chat.exe.config
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\bin\Debug\Chat.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\bin\Debug\Chat.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\obj\x86\Debug\Chat.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\obj\x86\Debug\Chat.Client.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\obj\x86\Debug\Chat.FormReg.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\obj\x86\Debug\Chat.FormChat.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\obj\x86\Debug\Chat.FormRoom.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\obj\x86\Debug\Chat.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\FinalChat\Chat\obj\x86\Debug\Chat.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\bin\Debug\Chat.exe.config
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\obj\x86\Debug\Chat.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\obj\x86\Debug\Chat.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\bin\Debug\Chat.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\bin\Debug\Chat.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\obj\x86\Debug\Chat.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\obj\x86\Debug\Chat.Client.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\obj\x86\Debug\Chat.FormReg.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\obj\x86\Debug\Chat.FormChat.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\obj\x86\Debug\Chat.FormRoom.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\ChatApplication\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\Dat\Desktop\ChatApplication\Chat\bin\Debug\Chat.exe.config
+C:\Users\Dat\Desktop\ChatApplication\Chat\obj\x86\Debug\Chat.exe
+C:\Users\Dat\Desktop\ChatApplication\Chat\obj\x86\Debug\Chat.pdb
+C:\Users\Dat\Desktop\ChatApplication\Chat\bin\Debug\Chat.exe
+C:\Users\Dat\Desktop\ChatApplication\Chat\bin\Debug\Chat.pdb
+C:\Users\Dat\Desktop\ChatApplication\Chat\obj\x86\Debug\Chat.csprojResolveAssemblyReference.cache
+C:\Users\Dat\Desktop\ChatApplication\Chat\obj\x86\Debug\Chat.Client.resources
+C:\Users\Dat\Desktop\ChatApplication\Chat\obj\x86\Debug\Chat.FormReg.resources
+C:\Users\Dat\Desktop\ChatApplication\Chat\obj\x86\Debug\Chat.FormChat.resources
+C:\Users\Dat\Desktop\ChatApplication\Chat\obj\x86\Debug\Chat.FormRoom.resources
+C:\Users\Dat\Desktop\ChatApplication\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+C:\Users\Dat\Desktop\ChatApplication\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+C:\Users\Dat\Desktop\ChatApplication_Update\Chat\bin\Debug\Chat.exe.config
+C:\Users\Dat\Desktop\ChatApplication_Update\Chat\obj\x86\Debug\Chat.exe
+C:\Users\Dat\Desktop\ChatApplication_Update\Chat\obj\x86\Debug\Chat.pdb
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\bin\Debug\Chat.exe.config
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\bin\Debug\Chat.exe
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\bin\Debug\Chat.pdb
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\obj\x86\Debug\Chat.csprojResolveAssemblyReference.cache
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\obj\x86\Debug\Chat.Client.resources
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\obj\x86\Debug\Chat.FormReg.resources
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\obj\x86\Debug\Chat.FormChat.resources
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\obj\x86\Debug\Chat.FormRoom.resources
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\obj\x86\Debug\Chat.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\obj\x86\Debug\Chat.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\obj\x86\Debug\Chat.exe
+F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\Chat\obj\x86\Debug\Chat.pdb

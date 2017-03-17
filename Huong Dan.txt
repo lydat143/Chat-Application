@@ -1,0 +1,24 @@
+﻿#Chương trình được viết trên Visual Studio 10
+
+# Máy thực hiện chương trình cần có phần mềm SQL Express 
+
+# Các bước chạy chương trình: 
+1. Khởi động 2 server: "ServerLogAndReg" và "ServerChat".
+2. Bấm "Start" trên 2 server để khởi động.
+3. Tiếp theo, mở user "Chat" 
+	3.1. Form đăng nhập sẽ hiện ra. Có thể đăng nhập với các tài khoản có sẵn (user: admin  pass: admin hoặc user: admin1  pass: admin)
+	3.2. Bấm "Sign in" sau khi đã điền thông tin đăng nhập để đăng nhập.
+		-Nếu chưa điền thông tin đăng nhập sẽ nhận được thông báo "Bạn chưa nhập tài khoản hoặc mật khẩu"
+		-Nếu sai tài khoản hoặc mật khẩu sẽ nhận được thông báo "Tài khoản không tồn tại hoặc sai mật khẩu?
+	3.3. Bấm "Register" để đăng ký tài khoản mới.
+		3.3.1. Đăng ký các thông tin: tên đăng nhập, mật khẩu, giới tính, tuổi, tình trạng hôn nhân.
+		3.3.2. Sau khi nhập thông tin đăng ký, bấm "Create Account" để hoàn thành đăng ký
+			- Nếu tên đăng nhập đã tồn tài, sẽ nhận được thông báo "Tài khoản đã tồn tại"
+			- Khi đăng ký thành công, sẽ nhận được thông báo "Bạn đã đăng ký thành công"
+	 
+4. Sau khi đăng nhập, sẽ hiện ra danh sách các phòng chat 
+	- Các phòng chat được gợi ý dựa trên thông tin của người sử dụng:
+		* Từ 18 tuổi trở lên và tình trạng hôn nhân là độc thân, có các phòng: Bí mật Adam, Bí Mật Eva, Hẹn hò
+		* Từ 18 tuổi trở lên và tình trạng hôn nhân là kết hôn, có các phòng: Bí mật Adam, Bí Mật Eva
+		* Dưới 18 tuổi, có các phòng: Teen
+5. Sau khi vào phòng chat là khung chat của các user

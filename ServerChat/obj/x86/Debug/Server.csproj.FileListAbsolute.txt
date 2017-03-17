@@ -1,0 +1,8 @@
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server\obj\x86\Debug\Server.Form1.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server\obj\x86\Debug\Server.Properties.Resources.resources
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server\bin\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server\bin\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server\obj\x86\Debug\Server.exe
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server\obj\x86\Debug\Server.pdb
+F:\Tài liệu\Lập trình mạng căn bản\BaiTap\gamesucxac\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
