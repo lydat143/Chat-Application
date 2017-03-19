@@ -15,12 +15,20 @@ namespace Server
 {
     public partial class ServerLogAndReg : Form
     {
+        DataTable data;
         public ServerLogAndReg()
         {
             InitializeComponent();
+           
         }
 
-        PhanMemChatDataSetTableAdapters.UserAccountTableAdapter q = new PhanMemChatDataSetTableAdapters.UserAccountTableAdapter();
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            CheckForIllegalCrossThreadCalls = false;
+            this.Text = "SERVER LOG AND REG";
+            Console.WriteLine("SERVER LOG AND REG");
+            currentAcount = new List<string>();
+        }
 
         private SocketModel[] socketlistLog;
         private TCPModel tcp;
@@ -106,8 +114,11 @@ namespace Server
                 {
                     socketlistLog[pos].SendData("OK! Info");
                     user = socketlistLog[pos].ReceiveData();
-                    string Info = q.GetAge(user).ToString();
-                    Info += " " + q.GetRelationship(user);
+
+                    data = DBSQLServerUtils.sqlQuery("SELECT age FROM UserAccount where user = "+user + ";");
+                    string Info = data.ToString();
+                    data = DBSQLServerUtils.sqlQuery("SELECT relationship FROM UserAccount where user = " + user + ";");
+                    Info += " " + data.ToString();
                     socketlistLog[pos].SendData(Info);
                 }
                 if (close(ref request, pos) == 1)
@@ -130,8 +141,8 @@ namespace Server
 
         private void checkAccount(int pos, string username, string pass)
         {
-
-            if (q.CheckAccExist(username, pass) == 1) // 1: có tài khoản, 0: tài khoản không tồn tại
+            data = DBSQLServerUtils.sqlQuery("Count * FROM UserAccount where user = " + username +" pass = "+pass+";");
+            if ( Convert.ToInt32(data) == 1) // 1: có tài khoản, 0: tài khoản không tồn tại
             {
                 if (checkAccOnline(username) == 1) // tài khoản đã được đc sử dụng
                 {
@@ -170,8 +181,9 @@ namespace Server
                 string sex = usr[2];
                 int age = int.Parse(usr[3]);
                 string rela = usr[4];
-                
-                i = q.CreateAccount(username, pass, sex, age, rela);
+                string insertString = username + "," + pass + "," + sex + "," + age + "," + rela;
+                data = DBSQLServerUtils.sqlQuery("INSERT INTO UserAccount VALUES ( " +insertString+ " );");
+                i = Convert.ToInt32(data);
             }
             catch (Exception e)
             {
@@ -189,13 +201,6 @@ namespace Server
             th.Start();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            CheckForIllegalCrossThreadCalls = false;
-            this.Text = "SERVER LOG AND REG";
-            Console.WriteLine("SERVER LOG AND REG");
-            currentAcount = new List<string>();
-        }
 
         private void Form1Closing(object sender, FormClosingEventArgs e)
         {

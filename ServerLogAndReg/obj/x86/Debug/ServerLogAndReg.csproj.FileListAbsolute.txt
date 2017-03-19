@@ -44,3 +44,15 @@ F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerLogAn
 F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerLogAndReg\obj\x86\Debug\ServerLogAndReg.csproj.GenerateResource.Cache
 F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerLogAndReg\obj\x86\Debug\Server.exe
 F:\Tài liệu\Lập trình mạng căn bản\ChatApplication_Update\ServerLogAndReg\obj\x86\Debug\Server.pdb
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\obj\x86\Debug\ServerLogAndReg.csprojResolveAssemblyReference.cache
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\obj\x86\Debug\Server.ConnectServerForm.resources
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\obj\x86\Debug\Server.ServerLogAndReg.resources
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\obj\x86\Debug\Server.Properties.Resources.resources
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\obj\x86\Debug\ServerLogAndReg.csproj.GenerateResource.Cache
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\obj\x86\Debug\Server.exe
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\obj\x86\Debug\Server.pdb
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\bin\Debug\PhanMemChat.mdf
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\bin\Debug\PhanMemChat_log.ldf
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\bin\Debug\Server.exe.config
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\bin\Debug\Server.exe
+F:\GitHub\ChatApplication\Chat-Application\ServerLogAndReg\bin\Debug\Server.pdb
